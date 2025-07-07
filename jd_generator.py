@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 # --- API Key Configuration ---
 # Primary: Gemini
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCb5B_wsF-91WRGlyd7N9C6DKqV37y3m-o")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "ADD YOUR API KEY OF GEMINI")
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
 
