@@ -1,0 +1,39 @@
+Resume Intelligence System - Analysis Summary
+==============================================
+
+Date: 2025-06-21 22:11:16
+
+Overall Quality Score: 54.26%
+Grade: D
+
+Component Scores:
+----------------
+Skill Alignment: 67.82%
+Project Validation: 38.26%
+Resume Formatting: 9.36%
+Content Trustworthiness: 100.00%
+Credential Verification: 27.50%
+Online Presence: 50.00%
+
+Key Strengths:
+-------------
+- Excellent Trustworthiness (Score: 100.0/100)
+
+Areas for Improvement:
+---------------------
+
+Recommendations:
+----------------
+- immediate_actions
+- skill_development
+- content_improvement
+- presentation_enhancement
+- credibility_building
+
+Output Files:
+-------------
+Comprehensive Report: output\comprehensive_report.html
+Quality Report: output\comprehensive_quality_report.json
+Skill Alignment: output\skill_alignment.json
+Project Validation: output\project_validation.json
+Link Extraction: output\link_extraction.json

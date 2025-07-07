@@ -1,0 +1,47 @@
+{
+  "trust_score": 100,
+  "max_score": 100,
+  "analysis_details": {
+    "text_duplication": {
+      "total_sentences": 19,
+      "duplicate_sentences": 0,
+      "duplication_ratio": 0.0,
+      "common_phrases": [],
+      "suspicious_patterns": []
+    },
+    "skill_evidence_mismatch": {
+      "analysis_possible": false
+    },
+    "inflation_detection": {
+      "inflation_keywords": [],
+      "superlatives_count": 0,
+      "unrealistic_claims": [],
+      "inflation_density": 0.0,
+      "severity_level": "low"
+    },
+    "external_verification": {
+      "verification_possible": true,
+      "profile_data": {
+        "public_repos": 29,
+        "followers": 1,
+        "account_age_days": 967
+      },
+      "activity_analysis": {
+        "total_repositories": 29,
+        "recent_activity_repos": 12,
+        "languages_used": {
+          "Python": 10,
+          "Jupyter Notebook": 13,
+          "HTML": 2
+        },
+        "activity_level": "high"
+      },
+      "skill_verification": {},
+      "overall_credibility": "high"
+    }
+  },
+  "flags": [],
+  "recommendations": [
+    "Resume demonstrates good trustworthiness - maintain factual, evidence-based content"
+  ]
+}

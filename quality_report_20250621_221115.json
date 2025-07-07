@@ -1,0 +1,193 @@
+{
+  "overall_score": 54.26,
+  "grade": "D",
+  "max_score": 100,
+  "analysis_timestamp": "2025-06-21T22:11:15.220174",
+  "component_scores": {
+    "skill_alignment": 67.81562805175781,
+    "project_validation": 38.264581152319735,
+    "formatting": 46.81935908691835,
+    "trustworthiness": 100,
+    "credibility": 27.5,
+    "online_presence": 50
+  },
+  "score_breakdown": {
+    "components": {
+      "skill_alignment": {
+        "raw_score": 67.81562805175781,
+        "weight": 0.3,
+        "weighted_score": 20.344688415527344
+      },
+      "project_validation": {
+        "raw_score": 38.264581152319735,
+        "weight": 0.3,
+        "weighted_score": 11.47937434569592
+      },
+      "formatting": {
+        "raw_score": 46.81935908691835,
+        "weight": 0.1,
+        "weighted_score": 4.681935908691835
+      },
+      "trustworthiness": {
+        "raw_score": 100,
+        "weight": 0.1,
+        "weighted_score": 10.0
+      },
+      "credibility": {
+        "raw_score": 27.5,
+        "weight": 0.1,
+        "weighted_score": 2.75
+      },
+      "online_presence": {
+        "raw_score": 50,
+        "weight": 0.1,
+        "weighted_score": 5.0
+      }
+    },
+    "weighted_contributions": {
+      "skill_alignment": 20.344688415527344,
+      "project_validation": 11.47937434569592,
+      "formatting": 4.681935908691835,
+      "trustworthiness": 10.0,
+      "credibility": 2.75,
+      "online_presence": 5.0
+    }
+  },
+  "issues_summary": {
+    "total_issues": 8,
+    "by_severity": {
+      "high": 0,
+      "medium": 1,
+      "low": 7
+    },
+    "by_type": {
+      "project_issue": 1,
+      "formatting_issue": 7
+    },
+    "by_component": {
+      "project_validation": 1,
+      "formatting": 7
+    }
+  },
+  "detailed_issues": [
+    {
+      "type": "project_issue",
+      "severity": "medium",
+      "component": "project_validation",
+      "message": "Project issue: \u2022 Applied K-Means clustering and Principal Component Analysis (PCA) to analyze patterns in unlabeled country data, identi- (Unrelated to claimed skills)",
+      "recommendation": "Improve project description with specific technologies and quantifiable results"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Reduce font variety - use maximum 2-3 different fonts",
+      "recommendation": "Reduce font variety - use maximum 2-3 different fonts"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Maintain consistent font sizes for similar content types",
+      "recommendation": "Maintain consistent font sizes for similar content types"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Use consistent bullet points throughout the resume",
+      "recommendation": "Use consistent bullet points throughout the resume"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Consider using bullet points for achievements and responsibilities",
+      "recommendation": "Consider using bullet points for achievements and responsibilities"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Break up large blocks of text into smaller paragraphs",
+      "recommendation": "Break up large blocks of text into smaller paragraphs"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Keep lines under 100 characters for better readability",
+      "recommendation": "Keep lines under 100 characters for better readability"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Use white space effectively to improve visual appeal",
+      "recommendation": "Use white space effectively to improve visual appeal"
+    }
+  ],
+  "recommendations": {
+    "immediate_actions": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "skill_development": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "content_improvement": [
+      "Highlight problem-solving approaches and outcomes",
+      "Include specific technologies and methodologies used",
+      "Add quantifiable results to project descriptions"
+    ],
+    "presentation_enhancement": [
+      "Ensure consistent bullet point usage",
+      "Use professional fonts and appropriate spacing",
+      "Improve resume formatting and visual consistency"
+    ],
+    "credibility_building": [
+      "Include links to professional profiles (LinkedIn, GitHub)",
+      "Ensure consistency across all professional platforms",
+      "Add professional certifications with verification details"
+    ]
+  },
+  "strengths": [
+    "Excellent Trustworthiness (Score: 100.0/100)"
+  ],
+  "improvement_areas": [
+    "Skill Alignment needs enhancement (Score: 67.8/100)",
+    "Unknown issue"
+  ],
+  "metadata": {
+    "resume_file": "Gopal_Updated_resume.pdf",
+    "job_description_file": "Position Data Science Intern.txt",
+    "analysis_version": "1.0",
+    "link_extraction": {
+      "total_platforms": 3,
+      "total_links": 3,
+      "platforms_found": [
+        "other",
+        "linkedin",
+        "github"
+      ],
+      "extraction_success_rate": 0.33,
+      "platform_counts": {
+        "other": 1,
+        "linkedin": 1,
+        "github": 1
+      },
+      "skill_indicators": {
+        "github": {
+          "languages": {
+            "Python": 10,
+            "Jupyter Notebook": 13,
+            "HTML": 2
+          },
+          "top_language": "Jupyter Notebook",
+          "repositories": 29
+        }
+      },
+      "credibility_score": 50
+    },
+    "online_presence_score": 50
+  }
+}

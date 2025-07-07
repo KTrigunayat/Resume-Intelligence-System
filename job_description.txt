@@ -1,0 +1,55 @@
+Position: Data Science Intern
+Location: Multiple Locations, India / Remote
+Duration: 10–12 weeks (Summer/Winter Internship Programs)
+Team: Varies (You may be placed in Google Cloud, Search, YouTube, Ads, Research, etc.)
+
+About the Job
+At Google, data drives everything. As a Data Science Intern, you'll join one of our high-impact teams to extract insights from massive datasets and help shape the products used by billions of users. You'll collaborate with engineers, analysts, and product managers to design experiments, build predictive models, and deliver actionable insights that influence real-world decisions.
+
+This is more than just an internship — it's an opportunity to shape the future with data.
+
+Responsibilities
+Analyze large and complex datasets to identify trends, patterns, and opportunities.
+
+Build predictive and prescriptive models using statistical and machine learning techniques.
+
+Design and evaluate A/B tests to assess new features or changes.
+
+Collaborate with cross-functional teams including engineering, product, and UX to influence strategic decisions.
+
+Present findings and recommendations to stakeholders in a clear, data-driven narrative.
+
+Use Google's infrastructure (e.g., BigQuery, TensorFlow, Vertex AI) to scale your work.
+
+Minimum Qualifications
+Currently enrolled in a Bachelor's, Master's, or PhD program in Computer Science, Statistics, Mathematics, Data Science, or a related technical field.
+
+Strong knowledge of statistics, machine learning, or data mining.
+
+Proficient in at least one programming language (Python, R, Java, or similar).
+
+Experience with SQL and data manipulation.
+
+Excellent problem-solving and analytical skills.
+
+Strong communication and collaboration abilities.
+
+Preferred Qualifications
+Experience working with large-scale data platforms (e.g., Hadoop, Spark, BigQuery).
+
+Familiarity with data visualization tools (e.g., Tableau, Looker, Matplotlib, Seaborn).
+
+Contributions to open-source data science projects or academic publications.
+
+Passion for using data to impact product, design, or policy decisions.
+
+Perks and Benefits
+Competitive stipend
+
+Mentorship from senior Googlers
+
+Access to learning and development programs
+
+Networking opportunities with global interns and Googlers
+
+Work on real-world problems with potential to impact millions 

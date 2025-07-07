@@ -1,0 +1,35 @@
+{
+  "project_scores": {
+    "• Applied K-Means clustering and Principal Component Analysis (PCA) to analyze patterns in unlabeled country data, identi-": 0.36000000000000004,
+    "• ImplementedGaussiansmoothing, histogramequalization, andWienerfilteringtoenhancemedicalimages, reducingnoise,": 0.40529162304639466
+  },
+  "flagged_projects": [
+    "• Applied K-Means clustering and Principal Component Analysis (PCA) to analyze patterns in unlabeled country data, identi- (Unrelated to claimed skills)"
+  ],
+  "projects": {
+    "• Applied K-Means clustering and Principal Component Analysis (PCA) to analyze patterns in unlabeled country data, identi-": "fying similarities and segmenting nations based on economic and social indicators.\nBreast Tumor Image Enhancement",
+    "• ImplementedGaussiansmoothing, histogramequalization, andWienerfilteringtoenhancemedicalimages, reducingnoise,": "and improving contrast for better visualization in breast tumor detection.\nPollution Forecasting (Time Series Analysis)\n• Air pollution analysis for NO2 and CO trends in Delhi and Bengaluru, using ARIMA, SARIMA, and LSTM to model and forecast\npollution levels, helping environmental monitoring and policy making.\nSatellite Image Analysis (Carbon Sink Detection)"
+  },
+  "skills": [
+    "Team Leadership & Collaboration",
+    "Problem-Solving & Critical Thinking",
+    "Time Management & Multitasking",
+    "mailto:youremail@yourdomain.com",
+    "tel:+91-9389996243",
+    "https://www.linkedin.com/in/gopal-tomar-002455288/",
+    "https://github.com/GopalTomar"
+  ],
+  "validation_metrics": {
+    "• Applied K-Means clustering and Principal Component Analysis (PCA) to analyze patterns in unlabeled country data, identi-": {
+      "skill_alignment": 0.0,
+      "technical_depth": 0.9,
+      "quantifiable_results": 0.0
+    },
+    "• ImplementedGaussiansmoothing, histogramequalization, andWienerfilteringtoenhancemedicalimages, reducingnoise,": {
+      "skill_alignment": 0.00881937174399105,
+      "technical_depth": 1.0,
+      "quantifiable_results": 0.0
+    }
+  },
+  "overall_score": 38.264581152319735
+}

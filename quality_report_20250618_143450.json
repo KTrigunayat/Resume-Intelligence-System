@@ -1,0 +1,216 @@
+{
+  "overall_score": 49.82,
+  "grade": "F",
+  "max_score": 100,
+  "analysis_timestamp": "2025-06-18T14:34:50.231390",
+  "component_scores": {
+    "skill_alignment": 56.17647171020508,
+    "project_validation": 28.31331056246154,
+    "formatting": 89.28571428571429,
+    "trustworthiness": 96.81528662420382,
+    "credibility": 26.666666666666664,
+    "online_presence": 32
+  },
+  "score_breakdown": {
+    "components": {
+      "skill_alignment": {
+        "raw_score": 56.17647171020508,
+        "weight": 0.3,
+        "weighted_score": 16.852941513061523
+      },
+      "project_validation": {
+        "raw_score": 28.31331056246154,
+        "weight": 0.3,
+        "weighted_score": 8.493993168738463
+      },
+      "formatting": {
+        "raw_score": 89.28571428571429,
+        "weight": 0.1,
+        "weighted_score": 8.928571428571429
+      },
+      "trustworthiness": {
+        "raw_score": 96.81528662420382,
+        "weight": 0.1,
+        "weighted_score": 9.681528662420384
+      },
+      "credibility": {
+        "raw_score": 26.666666666666664,
+        "weight": 0.1,
+        "weighted_score": 2.6666666666666665
+      },
+      "online_presence": {
+        "raw_score": 32,
+        "weight": 0.1,
+        "weighted_score": 3.2
+      }
+    },
+    "weighted_contributions": {
+      "skill_alignment": 16.852941513061523,
+      "project_validation": 8.493993168738463,
+      "formatting": 8.928571428571429,
+      "trustworthiness": 9.681528662420384,
+      "credibility": 2.6666666666666665,
+      "online_presence": 3.2
+    }
+  },
+  "issues_summary": {
+    "total_issues": 11,
+    "by_severity": {
+      "high": 0,
+      "medium": 11,
+      "low": 0
+    },
+    "by_type": {
+      "missing_skill": 10,
+      "project_issue": 1
+    },
+    "by_component": {
+      "skill_alignment": 10,
+      "project_validation": 1
+    }
+  },
+  "detailed_issues": [
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Qualifications",
+      "recommendation": "Consider adding experience or projects demonstrating Qualifications"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Contributions",
+      "recommendation": "Consider adding experience or projects demonstrating Contributions"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Ads",
+      "recommendation": "Consider adding experience or projects demonstrating Ads"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Responsibilities",
+      "recommendation": "Consider adding experience or projects demonstrating Responsibilities"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: YouTube",
+      "recommendation": "Consider adding experience or projects demonstrating YouTube"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Vertex",
+      "recommendation": "Consider adding experience or projects demonstrating Vertex"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Googlers",
+      "recommendation": "Consider adding experience or projects demonstrating Googlers"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Position",
+      "recommendation": "Consider adding experience or projects demonstrating Position"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Use",
+      "recommendation": "Consider adding experience or projects demonstrating Use"
+    },
+    {
+      "type": "missing_skill",
+      "severity": "medium",
+      "component": "skill_alignment",
+      "message": "Missing skill: Mentorship",
+      "recommendation": "Consider adding experience or projects demonstrating Mentorship"
+    },
+    {
+      "type": "project_issue",
+      "severity": "medium",
+      "component": "project_validation",
+      "message": "Project issue: \u2022 Implemented data preprocessing pipeline handling 1M+ records using Pandas and NumPy (Unrelated to claimed skills)",
+      "recommendation": "Improve project description with specific technologies and quantifiable results"
+    }
+  ],
+  "recommendations": {
+    "immediate_actions": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "skill_development": [
+      "Develop proficiency in Qualifications",
+      "Develop proficiency in Contributions",
+      "Develop proficiency in YouTube",
+      "Develop proficiency in Responsibilities",
+      "Develop proficiency in Ads"
+    ],
+    "content_improvement": [
+      "Add quantifiable results to project descriptions",
+      "Include specific technologies and methodologies used",
+      "Highlight problem-solving approaches and outcomes"
+    ],
+    "presentation_enhancement": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "credibility_building": [
+      "Include links to professional profiles (LinkedIn, GitHub)",
+      "Add professional certifications with verification details",
+      "Ensure consistency across all professional platforms"
+    ]
+  },
+  "strengths": [
+    "Excellent Formatting (Score: 89.3/100)",
+    "Excellent Trustworthiness (Score: 96.8/100)"
+  ],
+  "improvement_areas": [
+    "Unknown issue",
+    "Unknown issue",
+    "Unknown issue"
+  ],
+  "metadata": {
+    "resume_file": "sample_resume.txt",
+    "job_description_file": "job_description.txt",
+    "analysis_version": "1.0",
+    "link_extraction": {
+      "total_platforms": 3,
+      "total_links": 3,
+      "platforms_found": [
+        "other",
+        "linkedin",
+        "github"
+      ],
+      "extraction_success_rate": 0.33,
+      "platform_counts": {
+        "other": 1,
+        "linkedin": 1,
+        "github": 1
+      },
+      "skill_indicators": {
+        "github": {
+          "languages": {
+            "Ruby": 1
+          },
+          "top_language": "Ruby",
+          "repositories": 1
+        }
+      },
+      "credibility_score": 32
+    },
+    "online_presence_score": 32
+  }
+}

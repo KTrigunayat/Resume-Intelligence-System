@@ -1,0 +1,166 @@
+{
+  "links": {
+    "total_links_discovered": 3,
+    "platforms_found": [
+      "other",
+      "github",
+      "linkedin"
+    ],
+    "link_profiles": {
+      "other": [
+        {
+          "url": "http://yourdomain.com",
+          "domain": "yourdomain.com",
+          "path": "",
+          "username": null,
+          "link_type": "link",
+          "platform": "other"
+        }
+      ],
+      "github": [
+        {
+          "url": "https://github.com/GopalTomar",
+          "domain": "github.com",
+          "path": "/GopalTomar",
+          "username": "GopalTomar",
+          "link_type": "repository",
+          "platform": "github"
+        }
+      ],
+      "linkedin": [
+        {
+          "url": "https://www.linkedin.com/in/gopal-tomar-002455288/",
+          "domain": "www.linkedin.com",
+          "path": "/in/gopal-tomar-002455288/",
+          "username": "gopal-tomar-002455288",
+          "link_type": "profile",
+          "platform": "linkedin"
+        }
+      ]
+    }
+  },
+  "platforms": {
+    "other": [
+      {
+        "platform": "other",
+        "link_type": "link",
+        "url": "http://yourdomain.com",
+        "extraction_successful": false,
+        "error": "Unsupported platform"
+      }
+    ],
+    "linkedin": [
+      {
+        "schema_version": "1.0.0",
+        "platform": "linkedin",
+        "link_type": "profile",
+        "url": "https://www.linkedin.com/in/gopal-tomar-002455288/",
+        "username": null,
+        "extraction_date": "2025-06-21T22:11:00.881785",
+        "extraction_successful": false,
+        "basic_info": {
+          "name": null,
+          "headline": null,
+          "location": null,
+          "about": null
+        },
+        "engagement_metrics": {
+          "connections": 0,
+          "experience_count": 0,
+          "education_count": 0,
+          "skills_count": 0
+        },
+        "skill_indicators": {
+          "skills": [],
+          "experience": [],
+          "education": [],
+          "total_experience_months": 0
+        },
+        "credibility_signals": {
+          "has_photo": true,
+          "has_about": false,
+          "has_experience": false,
+          "has_education": false,
+          "has_skills": false,
+          "connection_level": false
+        }
+      }
+    ],
+    "github": [
+      {
+        "schema_version": "1.0.0",
+        "platform": "github",
+        "link_type": "profile",
+        "url": "https://github.com/GopalTomar",
+        "username": "GopalTomar",
+        "extraction_date": "2025-06-21T22:11:03.208849",
+        "extraction_successful": true,
+        "basic_info": {
+          "name": "Gopal Tomar",
+          "bio": null,
+          "location": null,
+          "company": null,
+          "website": "",
+          "email": null,
+          "account_created": "2022-10-28T09:02:28Z",
+          "account_age_days": 967
+        },
+        "engagement_metrics": {
+          "followers": 1,
+          "following": 0,
+          "total_repositories": 29,
+          "total_stars": 0,
+          "total_forks": 0,
+          "total_watchers": 0,
+          "recent_activity_count": 0
+        },
+        "skill_indicators": {
+          "languages": {
+            "Python": 10,
+            "Jupyter Notebook": 13,
+            "HTML": 2
+          },
+          "top_language": "Jupyter Notebook",
+          "activity_types": {},
+          "most_active_contribution_type": null
+        },
+        "credibility_signals": {
+          "account_age_days": 967,
+          "has_bio": false,
+          "has_company": false,
+          "has_location": false,
+          "has_website": false,
+          "has_email": false,
+          "original_repos_ratio": 1.0
+        }
+      }
+    ]
+  },
+  "summary": {
+    "total_platforms": 3,
+    "total_links": 3,
+    "platforms_found": [
+      "other",
+      "linkedin",
+      "github"
+    ],
+    "extraction_success_rate": 0.33,
+    "platform_counts": {
+      "other": 1,
+      "linkedin": 1,
+      "github": 1
+    },
+    "skill_indicators": {
+      "github": {
+        "languages": {
+          "Python": 10,
+          "Jupyter Notebook": 13,
+          "HTML": 2
+        },
+        "top_language": "Jupyter Notebook",
+        "repositories": 29
+      }
+    },
+    "credibility_score": 50
+  }
+}

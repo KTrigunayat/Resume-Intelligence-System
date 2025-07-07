@@ -1,0 +1,56 @@
+JOHN DOE
+Data Science Student
+john.doe@university.edu | (123) 456-7890 | linkedin.com/in/johndoe | github.com/johndoe
+
+EDUCATION
+Bachelor of Science in Computer Science with Data Science Specialization
+University of Technology, Expected Graduation: May 2024
+GPA: 3.8/4.0
+Relevant Coursework: Machine Learning, Statistical Analysis, Data Mining, Big Data Analytics, Database Systems
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, SQL, Java
+Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+Data Visualization: Matplotlib, Seaborn, Tableau
+Big Data: Hadoop, Spark, BigQuery
+Tools & Platforms: Git, Jupyter Notebooks, Docker, AWS
+
+PROJECTS
+Predictive Analytics for E-commerce
+• Developed a machine learning model to predict customer purchase behavior using Python and scikit-learn
+• Achieved 85% accuracy in predicting customer segments and increased conversion rate by 15%
+• Implemented data preprocessing pipeline handling 1M+ records using Pandas and NumPy
+
+Sentiment Analysis of Social Media Data
+• Built a real-time sentiment analysis system using TensorFlow and NLP techniques
+• Processed 500K+ tweets daily using Apache Spark for distributed computing
+• Created interactive visualizations using Matplotlib and Seaborn for stakeholder presentations
+
+EXPERIENCE
+Data Science Research Assistant
+University Research Lab, January 2023 - Present
+• Assist in developing and implementing machine learning algorithms for research projects
+• Clean and preprocess large datasets using Python and SQL
+• Create data visualizations and reports for research papers
+• Collaborate with PhD students on experimental design and analysis
+
+Data Analytics Intern
+Tech Solutions Inc., Summer 2023
+• Analyzed customer behavior data using SQL and Python
+• Developed automated reporting dashboards using Tableau
+• Conducted A/B testing for website optimization
+• Presented findings to stakeholders, leading to 20% improvement in user engagement
+
+CERTIFICATIONS
+• Google Data Analytics Professional Certificate
+• AWS Certified Cloud Practitioner
+• Coursera Machine Learning Specialization
+
+PUBLICATIONS & PRESENTATIONS
+• "Machine Learning Applications in E-commerce" - University Tech Symposium 2023
+• "Big Data Analytics: Challenges and Solutions" - Student Research Conference 2023
+
+LANGUAGES
+• English (Native)
+• Spanish (Intermediate)
+• Mandarin (Basic) 

@@ -1,0 +1,91 @@
+{
+  "total_score": 9.36387181738367,
+  "max_score": 20,
+  "detailed_scores": {
+    "font_consistency": 0.29999999999999993,
+    "bullet_consistency": 0.6176470588235294,
+    "margin_consistency": 0.75,
+    "text_density": 0.03582089552238804,
+    "section_lengths": 0.75
+  },
+  "analysis_details": {
+    "fonts": {
+      "unique_fonts": 6,
+      "font_distribution": {
+        "SourceSansPro-Bold": 26,
+        "FontAwesome5Free-Solid": 2,
+        "SourceSansPro-Regular": 48,
+        "FontAwesome5Free-Regular": 1,
+        "FontAwesome5Brands-Regul": 2,
+        "LMRoman7-Regular": 1
+      },
+      "unique_sizes": 6,
+      "size_distribution": {
+        "30": 1,
+        "8": 5,
+        "10": 66,
+        "14": 5,
+        "7": 1,
+        "12": 2
+      },
+      "most_common_font": [
+        "SourceSansPro-Regular",
+        48
+      ],
+      "most_common_size": [
+        10,
+        66
+      ]
+    },
+    "bullets": {
+      "bullet_lines": 8,
+      "total_lines": 68,
+      "bullet_usage_ratio": 0.11764705882352941,
+      "unique_bullet_types": 1,
+      "bullet_distribution": {
+        "•": 8
+      },
+      "most_common_bullet": [
+        "•",
+        8
+      ]
+    },
+    "margins": {
+      "left_margin_consistency": 10,
+      "right_margin_consistency": 22,
+      "avg_left_margin": 81.1683543069022,
+      "avg_right_margin": 223.07716723850794,
+      "min_margin": 41.52299880981445
+    },
+    "text_density": {
+      "long_lines": 11,
+      "total_lines": 67,
+      "long_line_ratio": 0.16417910447761194,
+      "avg_paragraph_length": 368.0,
+      "max_paragraph_length": 368,
+      "wall_of_text_count": 1
+    },
+    "sections": {
+      "section_lengths": {
+        "Education": 5,
+        "Work Experience": 5,
+        "Projects": 14,
+        "Skills": 5
+      },
+      "avg_section_length": 7.25,
+      "min_section_length": 5,
+      "max_section_length": 14,
+      "sections_too_short": 0,
+      "sections_too_long": 1
+    }
+  },
+  "recommendations": [
+    "Reduce font variety - use maximum 2-3 different fonts",
+    "Maintain consistent font sizes for similar content types",
+    "Use consistent bullet points throughout the resume",
+    "Consider using bullet points for achievements and responsibilities",
+    "Break up large blocks of text into smaller paragraphs",
+    "Keep lines under 100 characters for better readability",
+    "Use white space effectively to improve visual appeal"
+  ]
+}

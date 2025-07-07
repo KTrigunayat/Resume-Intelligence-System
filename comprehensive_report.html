@@ -1,0 +1,154 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Candidate Assessment Report</title>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+            <style>
+                body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+                .header { background-color: #f8f9fa; padding: 20px; margin-bottom: 20px; border-radius: 5px; }
+                .section { margin-bottom: 30px; }
+                .recommendation { background-color: #e9f7ef; padding: 15px; border-radius: 5px; margin-bottom: 10px; }
+                .chart-container { height: 400px; margin-bottom: 30px; }
+                .score-card { text-align: center; padding: 20px; border-radius: 5px; margin-bottom: 20px; }
+                .score-value { font-size: 36px; font-weight: bold; }
+                .grade-A { background-color: #d5f5e3; }
+                .grade-B { background-color: #d4efdf; }
+                .grade-C { background-color: #fcf3cf; }
+                .grade-D { background-color: #f5cba7; }
+                .grade-F { background-color: #f5b7b1; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h1>Candidate Assessment Report</h1>
+                    <p>Generated on 2025-06-21 22:11</p>
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="score-card grade-D">
+                            <h3>Overall Recommendation</h3>
+                            <div class="score-value">D</div>
+                            <p>Confidence: 0.80</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="score-card">
+                            <h3>Prediction Probabilities</h3>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <p>Technical: 70.0%</p>
+                                </div>
+                                <div class="col-md-4">
+                                    <p>Culture: 70.0%</p>
+                                </div>
+                                <div class="col-md-4">
+                                    <p>Learning: 70.0%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2>Key Insights</h2>
+                    <div class="row">
+        
+                        <div class="col-md-6">
+                            <div class="chart-container" id="viz_0"></div>
+                        </div>
+                
+                        <div class="col-md-6">
+                            <div class="chart-container" id="viz_1"></div>
+                        </div>
+                
+                        <div class="col-md-6">
+                            <div class="chart-container" id="viz_2"></div>
+                        </div>
+                
+                        <div class="col-md-6">
+                            <div class="chart-container" id="viz_3"></div>
+                        </div>
+                
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2>Strengths & Weaknesses</h2>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h3>Strengths</h3>
+                            <ul>
+        <li>Excellent Trustworthiness (Score: 100.0/100)</li>
+
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h3>Weaknesses</h3>
+                            <ul>
+        <li>Skill Alignment needs enhancement (Score: 67.8/100)</li>
+<li>Unknown issue</li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <h2>Actionable Recommendations</h2>
+        <div class="recommendation">No specific recommendations - maintain current standards</div>
+
+                </div>
+            </div>
+            
+            <script>
+        
+                fetch('radar_chart.html')
+                    .then(response => response.text())
+                    .then(html => {                        
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+                        const plotlyDiv = doc.querySelector('.plotly-graph-div');
+                        const plotlyData = JSON.parse(plotlyDiv.getAttribute('data-plotly'));
+                        Plotly.newPlot('viz_0', plotlyData.data, plotlyData.layout);
+                    });
+                
+                fetch('prediction_probabilities.html')
+                    .then(response => response.text())
+                    .then(html => {                        
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+                        const plotlyDiv = doc.querySelector('.plotly-graph-div');
+                        const plotlyData = JSON.parse(plotlyDiv.getAttribute('data-plotly'));
+                        Plotly.newPlot('viz_1', plotlyData.data, plotlyData.layout);
+                    });
+                
+                fetch('strengths_weaknesses.html')
+                    .then(response => response.text())
+                    .then(html => {                        
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+                        const plotlyDiv = doc.querySelector('.plotly-graph-div');
+                        const plotlyData = JSON.parse(plotlyDiv.getAttribute('data-plotly'));
+                        Plotly.newPlot('viz_2', plotlyData.data, plotlyData.layout);
+                    });
+                
+                fetch('platform_comparison.html')
+                    .then(response => response.text())
+                    .then(html => {                        
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+                        const plotlyDiv = doc.querySelector('.plotly-graph-div');
+                        const plotlyData = JSON.parse(plotlyDiv.getAttribute('data-plotly'));
+                        Plotly.newPlot('viz_3', plotlyData.data, plotlyData.layout);
+                    });
+                
+            </script>
+        </body>
+        </html>
+        

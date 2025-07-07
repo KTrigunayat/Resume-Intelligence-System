@@ -1,0 +1,76 @@
+{
+  "credibility_score": 27.5,
+  "max_score": 100,
+  "verification_results": {
+    "certifications": {
+      "total_certifications": 0,
+      "verified_count": 0,
+      "unverified_count": 0,
+      "verification_details": [],
+      "verification_rate": 0.0
+    },
+    "social_presence": {
+      "total_profiles": 4,
+      "accessible_profiles": 3,
+      "profile_details": {
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/gopal-tomar-002455288",
+          "accessible": false,
+          "status_code": 999,
+          "platform": "linkedin"
+        },
+        "github": {
+          "url": "https://github.com/GopalTomar",
+          "accessible": true,
+          "status_code": 200,
+          "platform": "github",
+          "verification_indicators": [
+            "github.com/"
+          ],
+          "credibility_score": 0.5,
+          "has_contributions": true,
+          "has_repositories": true,
+          "has_followers": true,
+          "repository_count": 29
+        },
+        "portfolio": {
+          "url": "https://www.linkedin.com",
+          "accessible": true,
+          "status_code": 200,
+          "platform": "portfolio",
+          "verification_indicators": [],
+          "credibility_score": 0.0
+        },
+        "personal_website": {
+          "url": "https://www.linkedin.com",
+          "accessible": true,
+          "status_code": 200,
+          "platform": "personal_website",
+          "verification_indicators": [],
+          "credibility_score": 0.0
+        }
+      },
+      "accessibility_rate": 0.75
+    },
+    "cross_reference": {
+      "consistency_score": 0.0,
+      "inconsistencies": [],
+      "supporting_evidence": []
+    }
+  },
+  "extracted_data": {
+    "certifications": [],
+    "social_profiles": {
+      "linkedin": "https://www.linkedin.com/in/gopal-tomar-002455288",
+      "github": "https://github.com/GopalTomar",
+      "portfolio": "https://www.linkedin.com",
+      "personal_website": "https://www.linkedin.com"
+    }
+  },
+  "recommendations": [
+    "Include certification IDs and dates to improve verifiability",
+    "Ensure certification names match official provider terminology",
+    "Ensure consistency between resume and online profiles",
+    "Update social profiles to reflect current skills and certifications"
+  ]
+}

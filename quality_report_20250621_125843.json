@@ -1,0 +1,165 @@
+{
+  "overall_score": 37.61,
+  "grade": "F",
+  "max_score": 100,
+  "analysis_timestamp": "2025-06-21T12:58:43.670430",
+  "component_scores": {
+    "skill_alignment": 60.92889404296875,
+    "project_validation": 0,
+    "formatting": 58.352678276243665,
+    "trustworthiness": 100,
+    "credibility": 25.0,
+    "online_presence": 10
+  },
+  "score_breakdown": {
+    "components": {
+      "skill_alignment": {
+        "raw_score": 60.92889404296875,
+        "weight": 0.3,
+        "weighted_score": 18.278668212890626
+      },
+      "project_validation": {
+        "raw_score": 0,
+        "weight": 0.3,
+        "weighted_score": 0.0
+      },
+      "formatting": {
+        "raw_score": 58.352678276243665,
+        "weight": 0.1,
+        "weighted_score": 5.835267827624367
+      },
+      "trustworthiness": {
+        "raw_score": 100,
+        "weight": 0.1,
+        "weighted_score": 10.0
+      },
+      "credibility": {
+        "raw_score": 25.0,
+        "weight": 0.1,
+        "weighted_score": 2.5
+      },
+      "online_presence": {
+        "raw_score": 10,
+        "weight": 0.1,
+        "weighted_score": 1.0
+      }
+    },
+    "weighted_contributions": {
+      "skill_alignment": 18.278668212890626,
+      "project_validation": 0.0,
+      "formatting": 5.835267827624367,
+      "trustworthiness": 10.0,
+      "credibility": 2.5,
+      "online_presence": 1.0
+    }
+  },
+  "issues_summary": {
+    "total_issues": 7,
+    "by_severity": {
+      "high": 0,
+      "medium": 0,
+      "low": 7
+    },
+    "by_type": {
+      "formatting_issue": 7
+    },
+    "by_component": {
+      "formatting": 7
+    }
+  },
+  "detailed_issues": [
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Use consistent bullet points throughout the resume",
+      "recommendation": "Use consistent bullet points throughout the resume"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Consider using bullet points for achievements and responsibilities",
+      "recommendation": "Consider using bullet points for achievements and responsibilities"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Ensure consistent margins throughout the document",
+      "recommendation": "Ensure consistent margins throughout the document"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Maintain adequate white space (at least 0.5 inch margins)",
+      "recommendation": "Maintain adequate white space (at least 0.5 inch margins)"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Break up large blocks of text into smaller paragraphs",
+      "recommendation": "Break up large blocks of text into smaller paragraphs"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Keep lines under 100 characters for better readability",
+      "recommendation": "Keep lines under 100 characters for better readability"
+    },
+    {
+      "type": "formatting_issue",
+      "severity": "low",
+      "component": "formatting",
+      "message": "Use white space effectively to improve visual appeal",
+      "recommendation": "Use white space effectively to improve visual appeal"
+    }
+  ],
+  "recommendations": {
+    "immediate_actions": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "skill_development": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "content_improvement": [
+      "No specific recommendations - maintain current standards"
+    ],
+    "presentation_enhancement": [
+      "Ensure consistent bullet point usage",
+      "Use professional fonts and appropriate spacing",
+      "Improve resume formatting and visual consistency"
+    ],
+    "credibility_building": [
+      "Ensure consistency across all professional platforms",
+      "Add professional certifications with verification details",
+      "Include links to professional profiles (LinkedIn, GitHub)"
+    ]
+  },
+  "strengths": [
+    "Excellent Trustworthiness (Score: 100.0/100)"
+  ],
+  "improvement_areas": [],
+  "metadata": {
+    "resume_file": "Kshitiz Trigunayat_Data Analyst_GODESi.pdf",
+    "job_description_file": "Position Data Science Intern.txt",
+    "analysis_version": "1.0",
+    "link_extraction": {
+      "total_platforms": 1,
+      "total_links": 1,
+      "platforms_found": [
+        "linkedin"
+      ],
+      "extraction_success_rate": 0.0,
+      "platform_counts": {
+        "linkedin": 1
+      },
+      "skill_indicators": {},
+      "credibility_score": 10
+    },
+    "online_presence_score": 10
+  }
+}
