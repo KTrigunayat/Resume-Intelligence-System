@@ -1,7 +1,7 @@
 # Resume Intelligence System
 
 An advanced AI-powered system for resume analysis and job matching. This system combines traditional NLP techniques with state-of-the-art LLM capabilities to provide comprehensive resume analysis, skill matching, and interview preparation.
-
+Download the ZIP File to Run this on your own System avoid cloning the repo.
 ## Features
 
 - **Resume Analysis**: Deep analysis of resume content, formatting, and structure
